@@ -1,0 +1,1 @@
+Sarah Larbislarbi@bu.edu1.) X = y + 102.) Y = 3*y3.) Y = x // 1004.) line of code     |  num |  val |--------------------------------num = 10         |  10  |      |val = 3          |  10  |  3   |   num = num - 5    |   5  |  3   |val = val + num  |   5  |  7   | num = num // 2   |  2.5 |  7   |val = val % 3    |  2.5 |  1   |num = 2*val + 3  |   5  |  1   |
